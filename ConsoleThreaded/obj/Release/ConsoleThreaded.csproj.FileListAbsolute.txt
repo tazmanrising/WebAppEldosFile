@@ -1,0 +1,1 @@
+C:\dev\FileUploader\eldosFile\eldosFile\WebAppEldos\ConsoleThreaded\obj\Release\ConsoleThreaded.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\dev\FileUploader\eldosFile\eldosFile\WebAppEldos\EldosFileLib\bin\64bit\EldosFileLib.dll
+C:\dev\FileUploader\eldosFile\eldosFile\WebAppEldos\EldosFileLib\bin\64bit\EldosFileLib.pdb
+C:\dev\FileUploader\eldosFile\eldosFile\WebAppEldos\EldosFileLib\bin\64bit\SolFS5Net.dll
+C:\dev\FileUploader\eldosFile\eldosFile\WebAppEldos\EldosFileLib\bin\64bit\System.Web.Mvc.dll
+C:\dev\FileUploader\eldosFile\eldosFile\WebAppEldos\EldosFileLib\bin\64bit\System.Web.Mvc.xml
+C:\dev\FileUploader\eldosFile\eldosFile\WebAppEldos\EldosFileLib\obj\64bit\EldosFileLib.dll
+C:\dev\FileUploader\eldosFile\eldosFile\WebAppEldos\EldosFileLib\obj\64bit\EldosFileLib.pdb
